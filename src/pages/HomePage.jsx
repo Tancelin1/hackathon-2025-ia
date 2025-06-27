@@ -6,7 +6,7 @@ const HomePage = ({ onNext }) => {
     <div className="home-page">
       <div className="home-container">
         <div className="hero-section">
-          <div className="hero-icon"> <img src="public/vite.png"/></div>
+          <div className="hero-icon"> <img src="/vite.png" alt="IA & Environnement" className="hero-image"/></div>
           <h1 className="hero-title">
             IA & ENVIRONNEMENT
           </h1>
